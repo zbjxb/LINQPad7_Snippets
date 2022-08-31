@@ -15,3 +15,5 @@ foreach(var key in keys)
 
 string ret = $"{{\"result\": {jsonArray.ToJsonString()}}}";
 Console.WriteLine(ret);
+
+Console.WriteLine(@"{""result"": ""None""}");
