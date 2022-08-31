@@ -1,0 +1,1 @@
+下载、安装、运行LINQPad 7，主界面左下角MyQueries窗格，点击Set Folder文字链接，设置3个目录到本库对应目录即可。
