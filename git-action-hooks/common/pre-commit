@@ -1,0 +1,2 @@
+#!/bin/sh
+python git-action-hooks/common/pre-commit.py
