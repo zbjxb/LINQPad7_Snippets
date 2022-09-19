@@ -1,7 +1,6 @@
 #!/bin/sh
 # -*- coding: utf-8 -*-
 
-from distutils.command.config import config
 import os
 from re import template
 from typing import NoReturn, Optional
