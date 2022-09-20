@@ -1,9 +1,0 @@
-{
-	"version_files": [
-		{
-			"template": "git-action-hooks/common/C#/version_file.cs.template",
-			"placeholder": "##VERSION##",
-			"output": "version_file.cs"
-		}
-	]
-}

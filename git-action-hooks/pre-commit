@@ -1,2 +1,0 @@
-#!/bin/sh
-python git-action-hooks/pre-commit.py
